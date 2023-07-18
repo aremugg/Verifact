@@ -1,0 +1,4 @@
+{
+   "baseUrl":"https://utpqlc1pqh.execute-api.eu-west-1.amazonaws.com/dev/",
+   "timeout": "80000"
+}
